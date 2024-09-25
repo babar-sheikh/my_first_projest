@@ -1,2 +1,2 @@
-# my_first_projest
+# my_first_project
 some test goes here..
